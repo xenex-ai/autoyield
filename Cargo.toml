@@ -1,0 +1,8 @@
+[package]
+name = "autoyield"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anchor-lang = "0.33.0"
+anchor-spl = "0.33.0"

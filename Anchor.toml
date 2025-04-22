@@ -1,0 +1,6 @@
+[programs.local]
+autoyield = "AYLD1111111111111111111111111111111111"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
